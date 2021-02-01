@@ -1,5 +1,6 @@
 City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 0,Sao Joao Da Barra,BR,82.4,clear sky,-21.6403,-41.0511,Pousada Porto De Canoas
+1,Champerico,GT,91.4,scattered clouds,14.3,-91.9167,"Hotel y restaurante ""El Diamante"""
 7,Lokoja,NG,81.82,scattered clouds,7.8024,6.742999999999999,Hotel Charvid
 8,Road Town,VG,78.8,scattered clouds,18.4167,-64.6167,"ZINGARA 76ft Catamaran, full crew-all included"
 10,Souillac,MU,80.6,scattered clouds,-20.5167,57.5167,Shanti Maurice Resort & Spa
@@ -184,3 +185,4 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 684,Ilhabela,BR,77.59,broken clouds,-23.7781,-45.3581,Ilha Flat Hotel
 685,Tena,EC,86.0,broken clouds,-0.9833,-77.8167,Hostal Tena Ñaui
 686,Kavaratti,IN,80.92,clear sky,10.5669,72.642,Hotels in Lakshadweep Islands
+689,Ocos,GT,91.4,few clouds,14.5094,-92.1933,Auto Hotel El Soñador
