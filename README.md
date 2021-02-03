@@ -1,10 +1,10 @@
 # World_Weather_Analysis
 
 # Project Overview
-Users input the minimum and maxmimum temperatures for their vacation.  Destinations were then retrieved based on the temperatures selected.  This information was then used to filter possible destinations.  From the possible destinations 5 cities were chosen and an itinerary was created.  Itinerary and subsequently marker maps were produced using this information.
+Users input the minimum and maximum temperatures for their vacation.  Destinations were then retrieved based on the temperatures selected.  This information was then used to filter possible destinations.  From the possible destinations 5 cities were chosen and an itinerary was created.  Itinerary and subsequently marker maps were produced using this information.
 
 # Detail
-* minimum and maximum temperature of 75 and 95 degrees were selected, respectively.
+* minimum and maximum temperature of 75 and 95 degrees were selected, respectively
 * vacation map was then generated based on the above temperatures
 * 5 cities were chosen from the generated destinations
 * a map was generated showing the itinerary for the 5 cities selected
